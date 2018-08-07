@@ -4,25 +4,21 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "gulp": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ChrisWen960216/learing-typescript.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ChrisWen960216/learing-typescript/issues"
   },
   "homepage": "https://github.com/ChrisWen960216/learing-typescript#readme",
-  "dependencies": {
-    "typescript": "^2.8.1"
-  },
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-typescript": "^4.0.2"
+    "tslint": "^5.11.0",
+    "tslint-config-airbnb": "^5.9.2",
+    "typescript": "^3.0.1"
   }
 }
